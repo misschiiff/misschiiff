@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @misschiiff BRIDGET IZBA
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning software engineering at Alx
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me anytime
 
