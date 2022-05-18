@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @misschiiff BRIDGET IZBA
 - 👀 I’m interested in software engineering / computer programming
 - 🌱 I’m currently learning software engineering at Alx
-- 💞️ I’m looking to collaborate on bulding an operative system
+- 💞️ I’m looking to collaborate on bulding an operating system
 - 📫 you can reach me on +2349137120296 txt msg or whatsapp 
 
 <!---
