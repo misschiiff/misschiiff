@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @misschiiff BRIDGET IZBA
+- 👋 Hi, I’m BRIDGET IZBA
 - 👀 I’m interested in software engineering / computer programming
 - 🌱 I’m currently learning software engineering at Alx
 - 💞️ I’m looking to collaborate on bulding an operating system
-- 📫 you can reach me on +2349137120296 txt msg or whatsapp 
+- 📫 you can reach me on +2349137120296-whatsapp 
 
 <!---
 misschiiff/misschiiff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
