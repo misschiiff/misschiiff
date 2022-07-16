@@ -1,6 +1,6 @@
 <!---find a great banner and add a masterhead here
 --->
-![masterhead](https://raw.githubusercontent.com/misschiiff/misschiiff/main/header.png)
+![masterhead](https://raw.githubusercontent.com/misschiiff/misschiiff/main/IMG_5942.jpg)
 # 👋 Hi, I'm **BRIDGET IZBA**
 >## Full Stack Web Developer
 >## Full Stack Graphic Designer
