@@ -11,7 +11,8 @@
 ![alt text](https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/c/c_48x48.png "Logo Title Text 1")
 ![alt text](https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python_48x48.png "Logo Title Text 1")
 
-<img
+<img align= "right" alt="Coding" width="400" src="https://raw.githubusercontent.com/misschiiff/misschiiff/main/IMG_4078.PNG">
+
 
 | *Hard Skills* | *Soft Skills* | 
 | ------------- |:-------------:|
