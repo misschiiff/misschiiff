@@ -1,5 +1,5 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-
+<!---find a great banner and add a masterhead here
+--->
 
 # 👋 Hi, I'm **BRIDGET IZBA**
 >## Full Stack Web Developer
