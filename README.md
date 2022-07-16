@@ -15,7 +15,7 @@
 
 
 | *Hard Skills* | *Soft Skills* | 
-| ------------- |:-------------:|
+|:-------------:| ------------- |
 | photo editing | communication |
 | adobe Ai      | team work     |
 | Photoshop     | creativity    |
