@@ -1,6 +1,6 @@
 <!---find a great banner and add a masterhead here
 --->
-
+![masterhead](https://raw.githubusercontent.com/misschiiff/misschiiff/main/header.png)
 # 👋 Hi, I'm **BRIDGET IZBA**
 >## Full Stack Web Developer
 >## Full Stack Graphic Designer
@@ -11,7 +11,7 @@
 ![alt text](https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/c/c_48x48.png "Logo Title Text 1")
 ![alt text](https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python_48x48.png "Logo Title Text 1")
 
-
+<img
 
 | *Hard Skills* | *Soft Skills* | 
 | ------------- |:-------------:|
