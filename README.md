@@ -2,6 +2,9 @@
 --->
 ![masterhead](https://raw.githubusercontent.com/misschiiff/misschiiff/main/IMG_5942.jpg)
 # 👋 Hi, I'm **BRIDGET IZBA**
+###### I have always known that a day would come when i would have to share how my programming journey started and why am so obbessed with coding. the truth is this, it was all meant to be even though i had no plans of being a programmer; infact i was a photographer at the time and my only skill was taking great pictures and editing including designing invitations for events until i stumbled on css in photoshop and i started researching and reading online resources to gain knowledge of programming languages and how to use them to create web pages and the rest is history. 
+###### Today i'm a self taught full stack web developer with 25 completed real world web development projects for satisfied clients and 3 personal web development projects with 2 years experience as web developer and 5 years experience as a graphic designer. i spend my free time learning new languages or drawing illustrations and other fun things to kill time and stay productive. i also love the game of chess even though i suck at it today i'm certain it won't remain that way because i have a growth mindset :wink:
+
 >## Full Stack Web Developer
 >## Full Stack Graphic Designer
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
@@ -14,15 +17,16 @@
 <img align= "right" alt="Coding" width="400" src="https://raw.githubusercontent.com/misschiiff/misschiiff/main/IMG_4078.PNG">
 
 
-| *Hard Skills* | *Soft Skills* | 
-|:-------------:| ------------- |
-| photo editing | communication |
-| adobe Ai      | team work     |
-| Photoshop     | creativity    |
-| vs code       | leadership    |
-| node js       | Work ethic    |
-| Angular       | adabtability  |
-| Nest JS       | flexibility   |
+  | *Hard Skills* | *Soft Skills* | 
+  |:-------------:| ------------- |
+  | photo editing | communication |
+  | adobe Ai      | team work     |
+  | Photoshop     | creativity    |
+  | vs code       | leadership    |
+  | node js       | Work ethic    |
+  | Angular       | adabtability  |
+  | Nest JS       | flexibility   |
+
 
 
 > ## 🙋‍♂️ About Me
