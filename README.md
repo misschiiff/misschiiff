@@ -12,7 +12,6 @@
 ![alt text](https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python_48x48.png "Logo Title Text 1")
 
 
-<img align= "left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 | *Hard Skills* | *Soft Skills* | 
 | ------------- |:-------------:|
