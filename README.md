@@ -31,9 +31,9 @@
 
 > ## 🙋‍♂️ About Me
 >
-- 🔭 I’m currently working on **Projects in Python, C & Typescript**
+- 🔭 I’m currently working on **Projects in node.js/Express.js**
 
-- 🌱 I’m currently learning **SQL & FIGMA**
+- 🌱 I’m currently learning **Javascript & FIGMA**
 
 - 💬 Ask me about **web development & web design**
 
